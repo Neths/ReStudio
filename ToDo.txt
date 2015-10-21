@@ -1,0 +1,6 @@
+Capabilties:
+*Network Sniffer:
+**filtering options (host, ip, protocol)
+**Tls decrypt
+
+*Process Memory introspection
