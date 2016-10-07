@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Drawing;
+using MarketSniper.Contracts;
 
 namespace MarketSniper.OCR
 {
@@ -8,12 +9,7 @@ namespace MarketSniper.OCR
     {
         public IEnumerable<char> RecognizeCaptcha(Bitmap captcha)
         {
-            throw new NotImplementedException();
+            return new List<char>() {'3','9'};
         }
-    }
-
-    public interface ICharRecognition
-    {
-        IEnumerable<char> RecognizeCaptcha(Bitmap captcha);
     }
 }
