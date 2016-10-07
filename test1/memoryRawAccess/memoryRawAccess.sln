@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "memoryRawAccess", "memoryRawAccess\memoryRawAccess.csproj", "{CEEE2FC0-74D9-4C32-B59F-F23C0BFE7906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketSniper", "..\MarketSniper\MarketSniper.csproj", "{CC1C7706-B493-4DEE-A229-29560B0BBFEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testImg", "testImg\testImg.csproj", "{D1DF6E29-84FF-42F7-9030-E73AD0AAFBB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{CEEE2FC0-74D9-4C32-B59F-F23C0BFE7906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEEE2FC0-74D9-4C32-B59F-F23C0BFE7906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEEE2FC0-74D9-4C32-B59F-F23C0BFE7906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1C7706-B493-4DEE-A229-29560B0BBFEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1C7706-B493-4DEE-A229-29560B0BBFEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1C7706-B493-4DEE-A229-29560B0BBFEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1C7706-B493-4DEE-A229-29560B0BBFEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DF6E29-84FF-42F7-9030-E73AD0AAFBB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DF6E29-84FF-42F7-9030-E73AD0AAFBB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DF6E29-84FF-42F7-9030-E73AD0AAFBB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DF6E29-84FF-42F7-9030-E73AD0AAFBB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
